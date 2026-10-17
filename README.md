@@ -14,3 +14,5 @@ A stunning 3D Gothic chess game featuring minimalist cathedral architecture, pol
 * **Chess.js** - Chess Logic & Rule Validation
 * **Tone.js** - Procedural Sound Effects
 * **Tailwind CSS & MD3** - Modern Glassmorphic UI
+
+Live Demo Link: https://adyuth2005.github.io/crown-chess-3d/
